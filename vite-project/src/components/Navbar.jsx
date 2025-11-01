@@ -11,10 +11,10 @@ const Navbar = ({ theme }) => {
 
       <div className="space-x-6 text-black font-medium text-lg sm:text-xl lg:text-sm">
         <a href="#" className="sm:hover:border-b-2 border-black">
-          Home{" "}
+          Home
         </a>
         <a href="#" className="sm:hover:border-b-2 border-black">
-          Service{" "}
+          Service
         </a>
         <a href="#" className="sm:hover:border-b-2 border-black">
           Our work{" "}
